@@ -1,0 +1,23 @@
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\thispagestyle {empty}
+\contentsline {section}{Introduction}{1}
+\contentsline {section}{\numberline {1}Model of the application and Use Case Diagrams.}{2}
+\contentsline {section}{\numberline {2}Basic and alternate flows of use cases.}{5}
+\contentsline {section}{\numberline {3}Model the application using 3 Sequence Diagrams}{7}
+\contentsline {section}{\numberline {4}Analyze the Functional and Non-Functional Requirements for the project.}{14}
+\contentsline {section}{\numberline {5}Model of the project with Collaboration Diagrams.}{15}
+\contentsline {section}{\numberline {6}Technologies planned on using in the project}{18}
+\contentsline {section}{\numberline {7}Model of the project with Class Diagrams.}{19}
+\contentsline {section}{\numberline {8}SWOT analysis of the project.}{20}
+\contentsline {section}{\numberline {9}Model of the application using 3 Statechart Diagrams}{21}
+\contentsline {section}{\numberline {10}Domain analysis of the project}{23}
+\contentsline {section}{\numberline {11}Model of the application using 3 Activity Diagrams}{25}
+\contentsline {section}{\numberline {12}Activity Map of the application.}{28}
+\contentsline {section}{\numberline {13}Model of the application using Component Diagrams}{29}
+\contentsline {section}{\numberline {14}Steps needed to setup the project.}{30}
+\contentsline {section}{\numberline {15}Model of the application using Deployment Diagrams}{31}
+\contentsline {section}{\numberline {16}Document the application delivery / installation.}{32}
+\contentsline {section}{Conclusions}{33}
+\contentsline {section}{References}{34}
